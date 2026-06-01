@@ -1,0 +1,17 @@
+# Large data files
+*.csv
+*.xlsx
+*.npy
+*.zip
+*.txt
+
+# SysEvalOffTarget raw data
+SysEvalOffTarget/files/
+SysEvalOffTarget/.git/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
