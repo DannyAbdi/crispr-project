@@ -4,6 +4,7 @@
 *.npy
 *.zip
 *.txt
+models/
 
 # SysEvalOffTarget raw data
 SysEvalOffTarget/files/
