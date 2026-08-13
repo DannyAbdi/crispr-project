@@ -5,6 +5,7 @@
 *.zip
 *.txt
 models/
+data/
 
 # SysEvalOffTarget raw data
 SysEvalOffTarget/files/
